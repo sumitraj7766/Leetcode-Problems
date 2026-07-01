@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 ## Trie
 |  |
 | ------- |
