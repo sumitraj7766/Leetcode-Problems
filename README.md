@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
