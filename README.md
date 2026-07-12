@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Bucket Sort
 |  |
 | ------- |
