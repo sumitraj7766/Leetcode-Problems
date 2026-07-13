@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0221-maximal-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0221-maximal-square) |
 ## Trie
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0221-maximal-square) |
 ## Enumeration
 |  |
 | ------- |
