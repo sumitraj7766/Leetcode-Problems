@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
