@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0274-h-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0274-h-index) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
