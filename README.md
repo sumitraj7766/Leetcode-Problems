@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
