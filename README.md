@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0284-peeking-iterator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -204,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0284-peeking-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
