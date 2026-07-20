@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0284-peeking-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Iterator
 |  |
 | ------- |
