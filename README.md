@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0313-super-ugly-number) |
+| [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -243,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
+## Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
