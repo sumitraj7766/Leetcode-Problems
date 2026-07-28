@@ -71,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 ## Monotonic Stack
 |  |
