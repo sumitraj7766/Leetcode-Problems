@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 ## Monotonic Stack
 |  |
@@ -278,10 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
