@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0284-peeking-iterator) |
 ## Binary Indexed Tree
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 ## Monotonic Stack
 |  |
@@ -289,12 +292,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 ## Linked List
 |  |
 | ------- |
@@ -303,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0143-reorder-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
