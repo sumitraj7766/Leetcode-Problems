@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 ## Geometry
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 ## Monotonic Stack
 |  |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0224-basic-calculator) |
 ## Binary Search Tree
 |  |
 | ------- |
