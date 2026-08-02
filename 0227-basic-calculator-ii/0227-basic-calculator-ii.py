@@ -22,11 +22,13 @@ class Solution(object):
 
                 elif operator == '/':
                     top = stack.pop()
+
                     if top < 0:
-                        stack.append(-(-top // num))
+                        stack.append (-(-top // num))
+
                     else:
                         stack.append(top // num)
-
+                    
                 operator = ch
                 num = 0
 
