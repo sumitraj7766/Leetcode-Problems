@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0179-largest-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0189-rotate-array) |
