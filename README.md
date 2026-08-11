@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 | [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
