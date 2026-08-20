@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -348,12 +350,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0402-remove-k-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 ## Tree
 |  |
 | ------- |
