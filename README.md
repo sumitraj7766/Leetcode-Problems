@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 ## Breadth-First Search
 |  |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Linked List
 |  |
