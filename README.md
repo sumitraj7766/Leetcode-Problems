@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0344-reverse-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
