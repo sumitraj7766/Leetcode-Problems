@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0137-single-number-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0139-word-break](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0139-word-break) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0221-maximal-square) |
