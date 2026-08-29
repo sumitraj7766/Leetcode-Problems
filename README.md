@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 ## Floyd's Cycle Finding Algorithm
 |  |
