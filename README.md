@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0387-first-unique-character-in-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0443-string-compression) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
