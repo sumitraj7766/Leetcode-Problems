@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## String
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
