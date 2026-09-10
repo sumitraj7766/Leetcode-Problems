@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Heap (Priority Queue)
 |  |
@@ -529,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
