@@ -1,0 +1,38 @@
+class Solution(object):
+    def multiply(self, num1, num2):
+        if num1 == "0" or num2 == "0":
+            return "0"
+        n = len(num1)
+        m = len(num2)
+
+        result = [0] * ( n + m)
+
+        for i in range(n - 1 , -1 , -1):
+            for j in range( m - 1 , -1 , -1):
+                digit1 = ord(num1[i]) - ord('0')
+                digit2 = ord(num2[j]) - ord('0')
+
+                product = digit1 * digit2
+
+                pos1 = i + j
+                pos2 = i + j + 1
+
+                total = product + result[pos2]
+
+                result[pos2] = total % 10
+                result[pos1] += total // 10
+
+        answer = ""
+
+        i = 0
+        while i < len(result) and result[i] == 0:
+            i += 1
+
+        while i < len(result):
+            answer += str(result[i])
+            i += 1
+
+
+        return answer
+        
+        
