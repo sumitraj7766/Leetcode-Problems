@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Bit Manipulation
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -563,4 +567,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0258-add-digits) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
