@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
@@ -589,4 +593,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
