@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -530,12 +532,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0394-decode-string) |
 ## Binary Search Tree
 |  |
