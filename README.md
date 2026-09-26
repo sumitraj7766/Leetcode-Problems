@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0457-circular-array-loop) |
+| [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## String
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Greedy
 |  |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
