@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0567-permutation-in-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
