@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0481-magical-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0475-heaters) |
+| [0481-magical-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
