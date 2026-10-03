@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0556-next-greater-element-iii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Geometry
 |  |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
