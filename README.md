@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## String
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0763-partition-labels) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0763-partition-labels) |
 ## Depth-First Search
 |  |
 | ------- |
