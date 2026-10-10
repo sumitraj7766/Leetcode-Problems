@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
