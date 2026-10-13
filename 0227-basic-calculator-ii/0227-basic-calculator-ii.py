@@ -1,3 +1,6 @@
+
+        
+        
 class Solution(object):
     def calculate(self, s):
         stack = []
@@ -5,30 +8,24 @@ class Solution(object):
         operator = '+'
 
         for i, ch in enumerate(s):
-
             if ch.isdigit():
                 num = num * 10 + int(ch)
 
-            if (not ch.isdigit() and ch != ' ') or i == len(s) - 1:
-
+            if ch in '+-*/' or i == len(s) - 1:
                 if operator == '+':
                     stack.append(num)
-
                 elif operator == '-':
                     stack.append(-num)
-
                 elif operator == '*':
                     stack.append(stack.pop() * num)
-
                 elif operator == '/':
                     top = stack.pop()
-
+                    # Truncate division toward zero
+                    result = abs(top) // num
                     if top < 0:
-                        stack.append (-(-top // num))
+                        result = -result
+                    stack.append(result)
 
-                    else:
-                        stack.append(top // num)
-                    
                 operator = ch
                 num = 0
 
