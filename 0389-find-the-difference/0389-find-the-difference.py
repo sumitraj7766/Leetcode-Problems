@@ -1,12 +1,14 @@
 class Solution(object):
     def findTheDifference(self, s, t):
-        ans = 0
+        """
+        :type s: str
+        :type t: str
+        :rtype: str
+        """
+        result = 0
 
-        for ch in s:
-            ans ^= ord(ch)
+        for char in s + t:
+            result ^= ord(char)
 
-        for ch in t:
-            ans ^= ord(ch)
-
-        return chr(ans)
+        return chr(result)
         
