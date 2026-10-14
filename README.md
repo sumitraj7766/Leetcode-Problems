@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0455-assign-cookies) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Enumeration
 |  |
 | ------- |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
