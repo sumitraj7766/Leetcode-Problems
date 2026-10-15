@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0475-heaters) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0475-heaters) |
