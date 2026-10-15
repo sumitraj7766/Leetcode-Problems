@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0475-heaters) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
+| [0435-non-overlapping-intervals](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0978-longest-turbulent-subarray) |
 ## Trie
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0475-heaters) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
