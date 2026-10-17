@@ -1,18 +1,19 @@
+
+from collections import Counter
 class Solution(object):
     def frequencySort(self, s):
-        freq = {}
+        """
+        :type s: str
+        :rtype: str
+        """
+        freq = Counter(s)
+        chars = sorted(freq.keys(), key=lambda ch: freq[ch], reverse=True)
 
-        # Count frequency
-        for ch in s:
-            freq[ch] = freq.get(ch, 0) + 1
+        result = ""
+        for ch in chars:
+            result += ch * freq[ch]
 
-        # Sort characters by frequency
-        chars = sorted(freq.items(), key=lambda x: x[1], reverse=True)
+        return result
 
-        # Build answer
-        ans = ""
 
-        for ch, count in chars:
-            ans += ch * count
-
-        return ans
+        
