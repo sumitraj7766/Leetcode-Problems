@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0539-minimum-time-difference](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0567-permutation-in-string) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0539-minimum-time-difference](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
