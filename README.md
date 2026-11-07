@@ -759,4 +759,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
