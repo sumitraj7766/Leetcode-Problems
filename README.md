@@ -763,4 +763,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/1164-product-price-at-a-given-date) |
+| [1179-reformat-department-table](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/1179-reformat-department-table) |
 <!---LeetCode Topics End-->
