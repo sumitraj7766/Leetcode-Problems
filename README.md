@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0720-longest-word-in-dictionary](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0809-expressive-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0763-partition-labels](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
+| [0720-longest-word-in-dictionary](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0763-partition-labels](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0809-expressive-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0720-longest-word-in-dictionary) |
 ## Memoization
 |  |
 | ------- |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0720-longest-word-in-dictionary) |
 ## Bucket Sort
 |  |
 | ------- |
