@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0720-longest-word-in-dictionary](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0809-expressive-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0809-expressive-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0720-longest-word-in-dictionary) |
+| [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -455,11 +460,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
 | ------- |
