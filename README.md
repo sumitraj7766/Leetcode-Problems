@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
+| [0832-flipping-an-image](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0832-flipping-an-image](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
+| [0832-flipping-an-image](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0832-flipping-an-image](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 ## Enumeration
 |  |
 | ------- |
@@ -745,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 ## Rolling Hash
 |  |
 | ------- |
