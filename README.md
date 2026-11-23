@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0809-expressive-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0904-fruit-into-baskets](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0825-friends-of-appropriate-ages](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
 ## Sorting
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
+| [0825-friends-of-appropriate-ages](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0809-expressive-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
 ## Divide and Conquer
 |  |
 | ------- |
