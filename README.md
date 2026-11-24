@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0809-expressive-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0809-expressive-words) |
+| [0819-most-common-word](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0832-flipping-an-image) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0767-reorganize-string) |
+| [0819-most-common-word](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [0809-expressive-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0809-expressive-words) |
+| [0819-most-common-word](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 ## Dynamic Programming
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0767-reorganize-string) |
+| [0819-most-common-word](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Greedy
 |  |
