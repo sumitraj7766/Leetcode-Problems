@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0341-flatten-nested-list-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
 ## Breadth-First Search
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0721-accounts-merge) |
 ## Union-Find
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumitraj7766/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
 |  |
